@@ -137,20 +137,28 @@ main {
 
  ul {
     list-style-type: none;
-    margin: 20px;
-    padding: 10px;
+    margin: 0 auto;
+    padding: 0;
     overflow: hidden;
-    font-size: 20px;
-    color: whitesmoke;
-    display: flex;
-    
- }
-
- li a {
-    display: inline;
-    color: white;
-    padding: 16px;
-    text-decoration: none;
-    
+    display: table;
   }
+  
+  li {
+    float:left;
+  }
+  
+  li a {
+    display: inline-block;
+    color: whitesmoke;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+  }
+
+  @media screen and (max-width: 768px) {
+    main,
+    nav {
+      flex-direction: column;
+    }
+}
 
