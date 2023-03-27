@@ -35,6 +35,11 @@ nav a {
     font-size: 20px;
 }
 
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .content {
     flex: 1;
   padding: 30px;
@@ -43,7 +48,7 @@ nav a {
   justify-content: space-evenly;
 }
  h2 {
-
+    color: whitesmoke;
  }
 
  p {
@@ -52,15 +57,79 @@ nav a {
  }
  
  .project {
-        display: flex;
+        display: inline-flex;
         flex-wrap: wrap;
         flex-direction: column;
         flex: 1 1 100px;
         border-style: solid; 
+        border-color: black;
+        border-width: 3px;
         margin: 10px 10px;
         padding:20px 20px;
-        width: 80%;
         align-items: center;
-        border-radius: 4%;
-        background-color:;
+        border-radius: 2%;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 200px;
+        width: 95%;
+        color: whitesmoke;
+        background-image: url(https://assets.entrepreneur.com/content/3x2/2000/1649279368-Ent-2022Python.jpeg);
+ }
+
+ .project:hover {
+    border-style: solid;
+    box-shadow: 5px 5px 5px 5px gray;
+ }
+
+ .a {
+    background-image: url(./Image\ 3-26-23\ at\ 6.22\ PM.jpg);
+    height: 500px;
+    width: 95%;
+ }
+
+.b {
+    background-image: url(./Image\ 3-26-23\ at\ 8.05\ PM.jpg);
+    height: 350px;
+    width: 45%;
+}
+
+.c {
+    background-image: url(./Image\ 3-26-23\ at\ 8.04\ PM.jpg);
+    height: 350px;
+    width: 45%;
+}
+
+ figure-first {
+    display: inline-block;
+    border: 2.5px solid black;
+    text-align: left;
+    margin: 25%;
+    margin-left: -36.5%;
+    width: 40%;
+    height:100px;
+    padding: 10px;
+    background-color: #323241;
+    color: whitesmoke;
+    float: left;
+
+ }
+ 
+ figure {
+    display: inline-block;
+    border: 2px solid black;
+    text-align: left;
+    margin: 20%;
+    margin-left: -43%;
+    width: 40%;
+    height:200px;
+    padding: 10px;
+    background-color: #323241;
+    color: whitesmoke;
+    float: left;
+ }
+ }
+
+ .tba {
+    margin: ;
  }
