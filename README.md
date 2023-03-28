@@ -10,7 +10,7 @@
 
 ## Description 
 
-[Visit the Deployed Site](https://samhiga.github.io/Horiseon-Code-Refactor/)
+[Visit the Deployed Site](https://samhiga.github.io/my-portfolio/)
 
 This webpage provides information me, including a short bio, my projects, and how to get in touch with me. Intended for view and use by potential employers
 
@@ -49,10 +49,11 @@ Through this project, I was able to understand flexboxes much more, as well as l
 
 ## Credits
 
-Flexwrap information: (https://www.w3schools.com/cssref/css3_pr_flex-wrap.php) 
-Centering a nav bar: (https://stackoverflow.com/questions/5995405/how-to-center-a-navigation-bar-with-css-or-html)
-Placing an image on a header: (https://stackoverflow.com/questions/39886829/how-do-i-position-an-image-on-each-side-of-a-header)
-Turning a flexbox into a link: (https://stackoverflow.com/questions/48431951/adding-a-link-to-an-entire-flexbox)
+* [FlexwrapInfo] (https://www.w3schools.com/cssref/css3_pr_flex-wrap.php) 
+* [CenteringNavBar] (https://stackoverflow.com/questions/5995405/how-to-center-a-navigation-bar-with-css-or-html)
+* [ImgInHeader] (https://stackoverflow.com/questions/39886829/how-do-i-position-an-image-on-each-side-of-a-header)
+* [TurningFlexboxIntoLink] (https://stackoverflow.com/questions/48431951/adding-a-link-to-an-entire-flexbox)
+
 
 
 
