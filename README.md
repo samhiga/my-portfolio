@@ -49,10 +49,10 @@ Through this project, I was able to understand flexboxes much more, as well as l
 
 ## Credits
 
-* [FlexwrapInfo] (https://www.w3schools.com/cssref/css3_pr_flex-wrap.php) 
-* [CenteringNavBar] (https://stackoverflow.com/questions/5995405/how-to-center-a-navigation-bar-with-css-or-html)
-* [ImgInHeader] (https://stackoverflow.com/questions/39886829/how-do-i-position-an-image-on-each-side-of-a-header)
-* [TurningFlexboxIntoLink] (https://stackoverflow.com/questions/48431951/adding-a-link-to-an-entire-flexbox)
+* [FlexwrapInfo](https://www.w3schools.com/cssref/css3_pr_flex-wrap.php) 
+* [CenteringNavBar](https://stackoverflow.com/questions/5995405/how-to-center-a-navigation-bar-with-css-or-html)
+* [ImgInHeader](https://stackoverflow.com/questions/39886829/how-do-i-position-an-image-on-each-side-of-a-header)
+* [TurningFlexboxIntoLink](https://stackoverflow.com/questions/48431951/adding-a-link-to-an-entire-flexbox)
 
 
 
